@@ -26,7 +26,7 @@ TeamSpeak: 3.0.19.4 (this version is required for Sinusbot)
 ### Updating the image
 Run the below command, to update the image to the latest version:
 ```
-docker pull quay.io/galexrt/sinusbot:latest
+docker pull Blackn0va/sinusbot:latest
 ```
 
 ### Permissions
