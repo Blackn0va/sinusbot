@@ -1,13 +1,5 @@
 # docker-sinusbot
 
-[![](https://images.microbadger.com/badges/image/galexrt/sinusbot.svg)](https://microbadger.com/images/galexrt/sinusbot "Get your own image badge on microbadger.com")
-
-[![Docker Repository on Quay.io](https://quay.io/repository/galexrt/sinusbot/status "Docker Repository on Quay.io")](https://quay.io/repository/galexrt/sinusbot)
-
-Image available from:
-* [**Quay.io**](https://quay.io/repository/galexrt/sinusbot)
-* [**Docker Hub**](https://hub.docker.com/r/galexrt/sinusbot)
-
 Docker Image with Sinusbot by Michael Friese.
 TeamSpeak 3 SinusBot Homepage: https://sinusbot.com/.
 
